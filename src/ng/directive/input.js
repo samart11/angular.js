@@ -14,7 +14,7 @@ var NUMBER_REGEXP = /^\s*(\-|\+)?(\d+|(\d*(\.\d*)))\s*$/;
 var DATE_REGEXP = /^(\d{4})-(\d{2})-(\d{2})$/;
 var DATETIMELOCAL_REGEXP = /^(\d{4})-(\d\d)-(\d\d)T(\d\d):(\d\d)$/;
 var WEEK_REGEXP = /^(\d{4})-W(\d\d)$/;
-var MONTH_REGEXP = /^(\d{4})-(\d\d)$/;
+var MONTH_REGEXP = /^(\d{4})-(\d\d)$/;1
 var TIME_REGEXP = /^(\d\d):(\d\d)$/;
 var DEFAULT_REGEXP = /(\s+|^)default(\s+|$)/;
 
